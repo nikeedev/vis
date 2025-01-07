@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         VIS
 // @namespace    nikee.dev
-// @version      2.0
+// @version      2.1
 // @description  make visma look good!
 // @author       nikeedev
 // @match        *://*.inschool.visma.no/*
