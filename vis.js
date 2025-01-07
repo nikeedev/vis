@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         VIS
 // @namespace    nikee.dev
-// @version      2.1.2
+// @version      2.2
 // @description  make visma look good!
 // @author       nikeedev
 // @match        https://*.inschool.visma.no/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=visma.no
 // @grant        none
-// @license      GPL-3.0
+// @license      MIT
 // @run-at document-body
 // ==/UserScript==
 
