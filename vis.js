@@ -48,7 +48,8 @@ ul:first-of-type > :first-child {
 }
 
 #top-menu-navbar-brand {
-   font-family: monospace;
+   /** font-family: monospace; **/
+   font-style: 650;
 }
         `;
 
