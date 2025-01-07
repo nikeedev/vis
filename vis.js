@@ -4,10 +4,10 @@
 // @version      2.1
 // @description  make visma look good!
 // @author       nikeedev
-// @match        *://*.inschool.visma.no/*
+// @match        https://*.inschool.visma.no/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=visma.no
 // @grant        none
-// @license      GPL3.0
+// @license      GPL-3.0
 // @run-at document-body
 // ==/UserScript==
 
